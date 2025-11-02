@@ -78,7 +78,7 @@ This is the foundation of reactor design, cogeneration analysis, and thermodynam
 Mass is conserved. In reactive systems (like hydrothermal carbonization), species are created and consumed. A mass balance tracks how much of each component is present over time or space.
 
 **Mathematical Form:**
-$$\frac{dm_i}{dt} = \sum \dot{m}_{i,in} - \sum \dot{m}_{i,out} + \dot{r}_i V$$
+$$\frac{dm_i}{dt} = \sum \dot{m}_{{i,in}} - \sum \dot{m}_{{i,out}} + \dot{r}_i V$$
 
 Where:
 - $m_i$ = mass of species $i$ in the control volume
