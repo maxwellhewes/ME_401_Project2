@@ -160,8 +160,9 @@ Where:
 - $c_p$ = specific heat
 
 **Convective Boundary Condition:**
-$$-k \frac{\partial T}{\partial n}\bigg|_{surface} = h(T_{surface} - T_{\infty})$$
-
+```math
+-k \frac{\partial T}{\partial n}\bigg|_{surface} = h(T_{surface} - T_{\infty})
+```
 Where $h$ is the convective heat transfer coefficient.
 
 **Why It Matters:**  
@@ -190,7 +191,9 @@ Temperature governs reaction rates, material properties, and safety limits. Heat
 Real processes are irreversible—energy quality degrades. Entropy generation quantifies lost work potential due to friction, heat transfer across finite temperature differences, mixing, and chemical reactions.
 
 **Mathematical Form:**
-$$\dot{S}_{gen} = \dot{S}_{out} - \dot{S}_{in} - \frac{\dot{Q}}{T_b} \geq 0$$
+```math
+\dot{S}_{gen} = \dot{S}_{out} - \dot{S}_{in} - \frac{\dot{Q}}{T_b} \geq 0
+```
 
 For a control volume:
 $$\dot{S}_{gen} = \sum \dot{m}_e s_e - \sum \dot{m}_i s_i - \sum \frac{\dot{Q}_j}{T_j}$$
