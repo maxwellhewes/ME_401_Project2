@@ -12,28 +12,6 @@ This document is your entry point. It won't teach you every detail, but it will 
 
 ---
 
-## How to Use AI as Your Research Partner
-
-You're not expected to know everything. You *are* expected to learn how to learn. AI tools (like the one you're using right now) can be **extraordinary research accelerators**—if you ask good questions.
-
-### **What to Ask AI:**
-- **"Explain the physical meaning of [term] in this equation."**  
-  *(e.g., "What does the convective heat transfer coefficient represent in real systems?")*
-- **"What numerical method should I use to solve [type of equation]?"**  
-  *(e.g., "How do I solve a system of coupled ODEs?")*
-- **"Show me the units of each term and check if this equation is dimensionally consistent."**
-- **"What assumptions are hidden in this model?"**
-- **"How would I extend this model to include [physical effect]?"**
-
-### **What NOT to Ask:**
-- **"Give me the answer to this problem."** *(You learn nothing.)*
-- **"Write all the code for me."** *(You won't understand what breaks.)*
-
-### **Golden Rule:**
-**Ask AI to teach you, not to do the work for you.** Use it to clarify concepts, check your reasoning, and explore new techniques. You're building intuition, not collecting solutions.
-
----
-
 ## Core Concepts
 
 ---
